@@ -1,0 +1,19 @@
+frontend day 1
+html - hyper text markup language
+ markup- set of rules
+it is a markup language that is used to create a structure for an webpage
+invented by tim berners in 1991
+it acts as a skeleton
+it contains series of elements that are represented by tags
+
+basic structure of html
+<!doctype html>--declaration --it defines type of doc and version
+<html>
+<head></head>---to define title,meta
+<body>
+    headings
+    paragraphs
+    images
+    nav links
+</body>
+</html>--root element
